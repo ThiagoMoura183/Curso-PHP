@@ -17,7 +17,11 @@
                 <div class="modulo verde">
                     <h3>Módulo 01 - Básico</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=teste&file=teste">Exercício A</a></li>
+                        <li><a href="exercicio.php?dir=Basico&file=ola">Olá PHP</a></li>
+                        <li><a href="exercicio.php?dir=Basico&file=html">Integração HTML</a></li>
+                        <li><a href="exercicio.php?dir=Basico&file=css">Integração CSS</a></li>
+                        <li><a href="exercicio.php?dir=Basico&file=comentarios">Comentários PHP</a></li>
+                        <li><a href="exercicio.php?dir=Basico&file=desafio">Desafio</a></li>
                     </ul>
                 </div>
 <!-- 
