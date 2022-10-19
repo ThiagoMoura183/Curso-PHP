@@ -38,17 +38,21 @@
                     <li><a href="exercicio.php?dir=Tipos&file=conversoes">Conversões</a></li> 
                     </ul>
                 </div>
-<!-- 
+ 
                 <div class="modulo azul">
-                    <h3>Módulo 03 - Básico</h3>
+                    <h3>Módulo 03 - Variáveis</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
-                        <li><a href="#">Exercício D</a></li>
+                     <li><a href="exercicio.php?dir=Variaveis&file=basico">Variáveis</a></li> 
+                     <li><a href="exercicio.php?dir=Variaveis&file=desafio_equacao">Desafio Equação</a></li> 
+                     <li><a href="exercicio.php?dir=Variaveis&file=atribuicoes">Atribuições</a></li> 
+                     <li><a href="exercicio.php?dir=Variaveis&file=interpolacao">Interpolação</a></li> 
+                     <li><a href="exercicio.php?dir=Variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li> 
+                     <li><a href="exercicio.php?dir=Variaveis&file=desafio_variaveis">Desafio Variáveis</a></li> 
+                     <li><a href="exercicio.php?dir=Variaveis&file=valor_referencia">Valor vs Referência</a></li> 
+                     <li><a href="exercicio.php?dir=Variaveis&file=constantes">Constantes</a></li> 
                     </ul>
                 </div>
-
+<!--
                 <div class="modulo roxo">
                     <h3>Módulo 04 - Básico</h3>
                     <ul>
