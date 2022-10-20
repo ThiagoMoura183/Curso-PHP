@@ -52,17 +52,20 @@
                      <li><a href="exercicio.php?dir=Variaveis&file=constantes">Constantes</a></li> 
                     </ul>
                 </div>
-<!--
+
                 <div class="modulo roxo">
-                    <h3>Módulo 04 - Básico</h3>
+                    <h3>Módulo 04 - Controle</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
-                        <li><a href="#">Exercício D</a></li>
+                      <li><a href="exercicio.php?dir=Controle&file=if_else">If Else</a></li> 
+                      <li><a href="exercicio.php?dir=Controle&file=operadores_relacionais">Operadores Relacionais</a></li> 
+                      <li><a href="exercicio.php?dir=Controle&file=desafio_pi">Desafio PI</a></li> 
+                      <li><a href="exercicio.php?dir=Controle&file=operadores_logicos">Operadores Lógicos</a></li> 
+                      <li><a href="exercicio.php?dir=Controle&file=operador_ternario">Operador Ternário</a></li> 
+                      <li><a href="exercicio.php?dir=Controle&file=switch">Switch</a></li> 
+                      <li><a href="exercicio.php?dir=Controle&file=desafio_switch">Desafio Switch</a></li> 
                     </ul>
                 </div>
-
+<!--
                 <div class="modulo laranja">
                     <h3>Módulo 05 - Básico</h3>
                     <ul>
