@@ -83,10 +83,10 @@
                 <div class="modulo verde-escuro">
                     <h3>Módulo 06 - Repetições</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=repeticoes&file=for">Laço For</a></li> 
-                        <li><a href="exercicio.php?dir=repeticoes&file=foreach">Laço Foreach</a></li> 
-                        <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break/Continue</a></li> 
-                        <li><a href="exercicio.php?dir=repeticoes&file=while">While/Do While</a></li> 
+                        <li><a href="exercicio.php?dir=Repeticoes&file=for">Laço For</a></li> 
+                        <li><a href="exercicio.php?dir=Repeticoes&file=foreach">Laço Foreach</a></li> 
+                        <li><a href="exercicio.php?dir=Repeticoes&file=break_continue">Break/Continue</a></li> 
+                        <li><a href="exercicio.php?dir=Repeticoes&file=while">While/Do While</a></li> 
                     </ul>
                 </div>
 <!--
