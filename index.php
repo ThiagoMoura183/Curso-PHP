@@ -65,27 +65,31 @@
                       <li><a href="exercicio.php?dir=Controle&file=desafio_switch">Desafio Switch</a></li> 
                     </ul>
                 </div>
-<!--
+
                 <div class="modulo laranja">
-                    <h3>Módulo 05 - Básico</h3>
+                    <h3>Módulo 05 - Array</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
-                        <li><a href="#">Exercício D</a></li>
+                     <li><a href="exercicio.php?dir=Array&file=basico">Introdução</a></li> 
+                     <li><a href="exercicio.php?dir=Array&file=mapa">Mapa</a></li> 
+                     <li><a href="exercicio.php?dir=Array&file=operacoes">Operações</a></li> 
+                     <li><a href="exercicio.php?dir=Array&file=multi">Multidimensionais</a></li> 
+                     <li><a href="exercicio.php?dir=Array&file=constantes">Arrays Constantes</a></li> 
+                     <li><a href="exercicio.php?dir=Array&file=get">$_GET</a></li> 
+                     <li><a href="exercicio.php?dir=Array&file=post">$_POST</a></li> 
+                     <li><a href="exercicio.php?dir=Array&file=comparacao">Comparação Arrays</a></li> 
                     </ul>
                 </div>
 
                 <div class="modulo verde-escuro">
-                    <h3>Módulo 06 - Básico</h3>
+                    <h3>Módulo 06 - Repetições</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
-                        <li><a href="#">Exercício D</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=for">Laço For</a></li> 
+                        <li><a href="exercicio.php?dir=repeticoes&file=foreach">Laço Foreach</a></li> 
+                        <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break/Continue</a></li> 
+                        <li><a href="exercicio.php?dir=repeticoes&file=while">While/Do While</a></li> 
                     </ul>
                 </div>
-
+<!--
                 <div class="modulo vermelho-escuro">
                     <h3>Módulo 07 - Básico</h3>
                     <ul>
