@@ -101,17 +101,16 @@
                      <li><a href="exercicio.php?dir=Funcoes&file=retornando_funcao">Retornando Função</a></li> 
                     </ul>
                 </div>
-<!--
+
                 <div class="modulo azul-escuro">
-                    <h3>Módulo 08 - Básico</h3>
+                    <h3>Módulo 08 - Paradigma O.O</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
-                        <li><a href="#">Exercício D</a></li>
+                     <li><a href="exercicio.php?dir=classes_objetos&file=classe">Primeira Classe</a></li> 
+                     <li><a href="exercicio.php?dir=classes_objetos&file=desafio_classeData">Desafio Classe</a></li> 
+                     <li><a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor e Destrutor</a></li> 
                     </ul>
                 </div>
-
+<!--
 
                 <div class="modulo roxo-escuro">
                     <h3>Módulo 09 - Básico</h3>
