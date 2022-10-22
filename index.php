@@ -89,17 +89,19 @@
                         <li><a href="exercicio.php?dir=Repeticoes&file=while">While/Do While</a></li> 
                     </ul>
                 </div>
-<!--
+
                 <div class="modulo vermelho-escuro">
-                    <h3>Módulo 07 - Básico</h3>
+                    <h3>Módulo 07 - Funções</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
-                        <li><a href="#">Exercício D</a></li>
+                     <li><a href="exercicio.php?dir=Funcoes&file=escopo">Função & Escopo</a></li> 
+                     <li><a href="exercicio.php?dir=Funcoes&file=args_retorno">Argumentos e Retorno</a></li> 
+                     <li><a href="exercicio.php?dir=Funcoes&file=args_variaveis">Argumentos Variáveis</a></li> 
+                     <li><a href="exercicio.php?dir=Funcoes&file=arg_padrao">Argumento Padrão</a></li> 
+                     <li><a href="exercicio.php?dir=Funcoes&file=anonimas">Funções Anonimas</a></li> 
+                     <li><a href="exercicio.php?dir=Funcoes&file=retornando_funcao">Retornando Função</a></li> 
                     </ul>
                 </div>
-
+<!--
                 <div class="modulo azul-escuro">
                     <h3>Módulo 08 - Básico</h3>
                     <ul>
