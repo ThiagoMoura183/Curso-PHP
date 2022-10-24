@@ -166,10 +166,25 @@ if(!$_SESSION['usuario']) {
                 </div> 
 
                 <div class="modulo vermelho">
-                    <h3>Módulo 11 - Sessão</h3>
+                    <h3>Módulo 12 - Sessão</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=Sessao&file=basico_sessao">Sessão</a></li> 
                         <li><a href="exercicio.php?dir=Sessao&file=gerenciando_sessao">Gerenciando Sessão</a></li> 
+                    </ul>
+                </div> 
+
+                <div class="modulo Azul">
+                    <h3>Módulo 13 - API</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=API&file=datas_01">Datas #01</a></li> 
+                        <li><a href="exercicio.php?dir=API&file=datas_02">Datas #02</a></li> 
+                    </ul>
+                </div> 
+
+                <div class="modulo Roxo">
+                    <h3>Módulo 14 - Formulários</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=Formulario&file=formulario">Formulário</a></li> 
                     </ul>
                 </div> 
             </nav>
