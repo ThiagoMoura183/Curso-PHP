@@ -24,6 +24,8 @@ if (isset($_POST['email'])) {
         if ($emailValido && $senhaValida) {
             $_SESSION['erros'] = null;
             $_SESSION['usuario'] = $usuario['nome'];
+            $exp = time() + 60 * 60 * 24 * 30; // Será a data para expiração do cookie
+            setcookie('usuario',$usuario['nome'], $exp);
             header('Location: index.php');
         }
     }
