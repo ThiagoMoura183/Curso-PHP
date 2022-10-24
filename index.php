@@ -120,17 +120,16 @@
                      <li><a href="exercicio.php?dir=classes_objetos&file=polimorfismo">Polimorfismo</a></li> 
                     </ul>
                 </div>
-<!--
+
 
                 <div class="modulo roxo-escuro">
-                    <h3>Módulo 09 - Básico</h3>
+                    <h3>Módulo 09 - Include</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
-                        <li><a href="#">Exercício D</a></li>
+                        <li><a href="exercicio.php?dir=Includes&file=include">Include</a></li> 
+                        <li><a href="exercicio.php?dir=Includes&file=include_funcao">Include Função</a></li> 
+                        <li><a href="exercicio.php?dir=Includes&file=include_require">Include vs Require</a></li> 
                     </ul>
-                </div> -->
+                </div> 
             </nav>
         </div>
     </main>
