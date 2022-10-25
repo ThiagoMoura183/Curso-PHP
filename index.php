@@ -192,6 +192,12 @@ if(!$_SESSION['usuario']) {
                     <h3>Módulo 15 - Banco de Dados</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=db&file=criar_banco">Criar Banco</a></li> 
+                        <li><a href="exercicio.php?dir=db&file=criar_tabela">Criar Tabela</a></li> 
+                        <li><a href="exercicio.php?dir=db&file=inserir_1">Inserir Registro #01</a></li> 
+                        <li><a href="exercicio.php?dir=db&file=consultar">Consultar Registros</a></li> 
+                        <li><a href="exercicio.php?dir=db&file=excluir_1">Remover Registros #01</a></li> 
+                        <li><a href="exercicio.php?dir=db&file=excluir_2">Remover Registros #02</a></li> 
+                        <li><a href="exercicio.php?dir=db&file=inserir_2">Inserir Registro #02</a></li> 
                     </ul>
                 </div> 
             </nav>
